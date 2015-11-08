@@ -1,2 +1,1 @@
-s
 # nithinara.github.io
