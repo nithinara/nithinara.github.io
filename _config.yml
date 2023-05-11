@@ -20,8 +20,8 @@
 
 title: nithinara
 email: nithinara@gmail.com
-description: Welcome to my personal website
-url: "https://nithinara.com" # the base hostname & protocol for your site, e.g. http://example.com
+description: Welcome to my website!
+url: "https://nithinara.com"
 
 # Build settings
 theme: minima
@@ -33,6 +33,9 @@ collections_dir:
 
 collections:
   games:
+    output: true
+    permalink: /:collection/:path/
+  food:
     output: true
     permalink: /:collection/:path/
 
