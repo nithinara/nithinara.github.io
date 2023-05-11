@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Resume](https://nithinara.com/shrinithi_narayanan_resume.pdf)
+[Resume]({% link shrinithi_narayanan_resume.pdf %})
 
 [LinkedIn](https://linkedin.com/in/nithinara)
 

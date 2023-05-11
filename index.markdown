@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Hello!
+Hello! Check out my thoughts on these various subjects:
+
+{% for collection in site.collections %}
+{% if collection.label != 'posts' %}
+<a href="{{ collection.label }}">{{ collection.label | capitalize }}</a>
+{% endif %}
+{% endfor %}
