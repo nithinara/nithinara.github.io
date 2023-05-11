@@ -8,4 +8,4 @@ permalink: /about/
 
 [LinkedIn](https://linkedin.com/in/nithinara)
 
-Hi, I'm a software engineer at [Veeva Systems](https://www.veeva.com).
+Hi! My name is Shrinithi Narayanan, and I'm a software engineer at [Veeva Systems](https://www.veeva.com).
