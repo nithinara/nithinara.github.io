@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games
+title: Projects
 ---
 
 {% assign col = page.title | downcase %}

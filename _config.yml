@@ -32,10 +32,13 @@ collections_dir:
     collections
 
 collections:
-  games:
+  projects:
     output: true
     permalink: /:collection/:path/
-  food:
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
+  games:
     output: true
     permalink: /:collection/:path/
 

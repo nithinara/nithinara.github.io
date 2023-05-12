@@ -2,6 +2,12 @@
 layout: home
 ---
 
-Hello! If you want to learn about me, check out my [about]({% link about.markdown %}) page!
+Hello! If you want to learn about my professional experience, check out my [about]({% link about.markdown %}) page!
 
-This website is currently under construction.
+You can also check out my musings on different topics:
+
+{% for collection in site.collections %}
+{% if collection.label != 'posts' %}
+  <h2><a href="{{ collection.label }}">{{ collection.label | capitalize }}</a></h2>
+{% endif %}
+{% endfor %}
