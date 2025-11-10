@@ -7,3 +7,5 @@ order: 1
 Hi!
 
 My name is Shrinithi Narayanan, and I’m a senior software engineer at Veeva Systems.
+
+I graduated from Rice University, with a degree in Computer Science.
