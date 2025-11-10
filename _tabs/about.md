@@ -1,11 +1,8 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
 ---
 
-Hi!
+I’m a senior software engineer at Veeva Systems.
 
-My name is Shrinithi Narayanan, and I’m a senior software engineer at Veeva Systems.
-
-I graduated from Rice University, with a degree in Computer Science.
+If you want to read more about my experience, check out my [resume]({{ site.url }}/assets/doc/resume.pdf).
